@@ -1,4 +1,4 @@
-# Stacey 2.2.2 - HTML5Boilerplate Edition
+# Stacey 2.3.0 - HTML5Boilerplate Edition
 
 ## Overview
 Stacey takes content from `.txt` files, image files and implied directory structure and generates a website.
